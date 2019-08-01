@@ -1,0 +1,13 @@
+print("*************************************************")
+#Python program to check if the input year is a leap year or not
+year = 2019
+#To get (integer input) from the user
+#year = int(input("Enter year"))
+year= int(input("Enter year"))
+if(year%400) == 0:
+    print("leap year")
+elif(year%4==0) and year%100!=0 
+else
+    "non leap year"
+
+    

@@ -1,0 +1,30 @@
+A= 1
+a+= 1 
+a=2
+a+=1
+a=3
+a+=1
+a=4
+
+
+x
+xx
+xxx
+xxxx
+xxxxx
+xxxxxx
+
+for i in range(5):
+    print("*:"*i)
+ 
+
+function:-
+function is a container where we can write group of statement.
+and it is depends on mentality. to maitain a project or class programing.
+we can use function.	
+
+n=int(input("Enter number of rows: "))
+for i in range (n,0,-1):
+    print((n-i) * ' ' + i * '*')
+
+																																																	

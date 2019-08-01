@@ -1,0 +1,10 @@
+variables type?
+local 
+global
+
+global is used as globally. like 
+class maruti:
+ num= int() #is global variable .. you can use  this variable in whole class.
+  def model1():
+    a=10  # is local variable.. you can use as local . in one function. you cannot transfer to other function.
+
